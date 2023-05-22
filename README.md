@@ -1,4 +1,4 @@
-﻿# sprint2-javascript
+# sprint2-javascript
  
 * Arthur Bessa Pian - RM99215
 * Davi Almeida Desenzi - RM550849
